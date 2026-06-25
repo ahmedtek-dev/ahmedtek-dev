@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello 👋 , I am Ahmed
+
+[![My Skills](https://skillicons.dev)](c,linux,html,css,git,github,vim)
+
 
 <!--
 **ahmedtek-dev/ahmedtek-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
