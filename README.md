@@ -1,5 +1,4 @@
-د# 
-Heyo :3, I'm ahmedtek-dev
+## Hi 👋 I'm ahmedtek-dev :)
 
 [![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
