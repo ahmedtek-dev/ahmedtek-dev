@@ -1,5 +1,11 @@
-## Hi 👋 I'm ahmedtek-dev :)
+# Hi 👋 I'm ahmedtek-dev :)
 
-<img src="https://skillicons.dev" alt="My Skills" />
+## 🛠️ Languages and Tools:
+* 🐧 **Linux** (Operating System)
+* 🔵 **C** (Programming Language)
+* 🗂️ **Git & GitHub** (Version Control)
+* 💻 **Vim** (Code Editor)
 
-[![Top Langs](https://vercel.app)](https://github.com)
+## 📊 About Me:
+* 🇩🇿 From **Algeria**
+* 🚀 Beginner developer using **C**
